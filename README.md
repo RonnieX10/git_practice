@@ -1,12 +1,12 @@
-#hello GIt and GitHub
+# hello GIt and GitHub
 
-##First episode
+## First episode
 
 **This is new shit**
 
-* *This is same shit* *
+*This is same shit*
 
 ~~everything gona be ok~~
 
-** Your world is an _ashtray_!**
+**Your world is an _ashtray_!**
 
